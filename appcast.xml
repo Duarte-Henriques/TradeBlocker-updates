@@ -4,11 +4,11 @@
         <title>TradeBlocker</title>
         <item>
             <title>0.0</title>
-            <pubDate>Sun, 06 Apr 2025 13:18:46 +0100</pubDate>
-            <sparkle:version>11</sparkle:version>
+            <pubDate>Mon, 07 Apr 2025 20:58:31 +0100</pubDate>
+            <sparkle:version>12</sparkle:version>
             <sparkle:shortVersionString>0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Duarte-Henriques/TradeBlocker-updates/releases/download/v0.0-11/TradeBlocker-v0.0-11.dmg" length="2533338" type="application/octet-stream" sparkle:edSignature="jyGCml2HkowZGPj3l739NiOoxBKOoZt/VGx6zFNObD4qNX/ncfGDQGB8fdETIVJkTjYVxJ1qYeuVEGf1QEn0Dw=="/>
+            <enclosure url="https://github.com/Duarte-Henriques/TradeBlocker-updates/releases/download/v0.0-12/TradeBlocker.dmg" length="2530782" type="application/octet-stream" sparkle:edSignature="IqQbUSZ4IjQKGgSt1kwmfkaqqz8ZdRixir82LFt6mMIkHYp4i6NEms3/9Ezl1ry23EKBqETGqHmOd4/iJBZJCQ=="/>
         </item>
     </channel>
 </rss>
